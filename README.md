@@ -10,7 +10,7 @@ For this project you will need the following
   * 
 
 
-to get staeted with the code side of the project you need to run the following commands 
+to get staeted with the instalation of the project you need to run the following commands 
 
 `apt update && apt install git`
 
