@@ -5,7 +5,7 @@ A guide to setting up a AllStarLink node in the cloud
 
  [Setting up DigitalOcean](#do)
 
- [what you ned](#setting up your AllStarLink Account)
+ [setting up your AllStarLink Account](#asl)
 
  [Setting up your node](#node)
  [Accessing your node](#access)
