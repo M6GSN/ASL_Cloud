@@ -2,9 +2,13 @@
 A guide to setting up a AllStarLink node in the cloud
 
  [what you ned](#needed)
+
  [Setting up DigitalOcean](#do)
+
  [what you ned](#needed)
+
  [what you ned](#setting up your AllStarLink Account)
+
  [what you ned](#node)
 <a name="needed"></a>For this project you will need the following
 
