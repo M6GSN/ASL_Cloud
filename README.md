@@ -1,11 +1,11 @@
 # ASL_Cloud
 A guide to setting up a AllStarLink node in the cloud
 
- [what you need](#needed)
+ [What you need](#needed)
 
  [Setting up DigitalOcean](#do)
 
- [setting up your AllStarLink Account](#asl)
+ [Setting up your AllStarLink Account](#asl)
 
  [Setting up your node](#node)
 
