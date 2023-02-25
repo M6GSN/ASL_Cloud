@@ -41,6 +41,10 @@ Once that is installed
 
 `git clone https://github.com/M6GSN/ASL_Cloud`
 
+Then run the following
+
+`cd asl_cloud`
+`chmod +x install.sh`
 
 
 
