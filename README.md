@@ -21,7 +21,7 @@ A guide to setting up a AllStarLink node in the cloud
 
 
 
-<a name="do">Setting up your digitalocean server
+<a name="do">Setting up your DigitalOcean server
 
 
 <a name="asl">setting up your AllStarLink Account
