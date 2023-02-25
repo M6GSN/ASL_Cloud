@@ -44,7 +44,10 @@ Once that is installed
 Then run the following
 
 `cd asl_cloud`
+
 `chmod +x install.sh`
+
+'./install.sh'
 
 
 
