@@ -47,7 +47,7 @@ Then run the following
 
 `chmod +x install.sh`
 
-'./install.sh'
+`./install.sh`
 
 
 
