@@ -8,7 +8,9 @@ A guide to setting up a AllStarLink node in the cloud
  [setting up your AllStarLink Account](#asl)
 
  [Setting up your node](#node)
+
  [Accessing your node](#access)
+
 <a name="needed"></a>For this project you will need the following
 
 
