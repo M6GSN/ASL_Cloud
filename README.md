@@ -23,7 +23,7 @@ A guide to setting up a AllStarLink node in the cloud
 
 <a name="do">Setting up your DigitalOcean server
 
-![first screenshot on digitalOcera](https://github.com/M6GSN/ASL_Cloud/blob/main/do01.png)
+![first screenshot on digitalOcera](https://m6gsn.co.uk/git/DO01.png)
 
 
 <a name="asl">setting up your AllStarLink Account
