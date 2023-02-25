@@ -23,6 +23,8 @@ A guide to setting up a AllStarLink node in the cloud
 
 <a name="do">Setting up your DigitalOcean server
 
+![first screenshot on digitalOcera](do01.png)
+
 
 <a name="asl">setting up your AllStarLink Account
 
