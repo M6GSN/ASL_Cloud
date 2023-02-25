@@ -15,9 +15,9 @@ A guide to setting up a AllStarLink node in the cloud
 
 
   * An amatuer Radio Licence
-  * An account at [allstarlink.org](https://www.allstarlink.org/)
+  * An account at [allstarlink.org](https://www.allstarlink.org/){:target="_blank"}
   * An account at [digitalocean.com](https://www.digitalocean.com/) you could use other cloud service providers but this guide is using DigitalOcean
-  * a href="http://example.com/" target="_blank">Hello, world!</a>
+  * <a href="http://example.com/" target="_blank">Hello, world!</a>
 
 
 
