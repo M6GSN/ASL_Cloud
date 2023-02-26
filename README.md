@@ -27,7 +27,7 @@ A guide to setting up a AllStarLink node in the cloud
 
 
 
-<a name="do">Setting up your DigitalOcean server
+<a name="do">Setting up your server on DigitalOcean
 
 once you have signed in to you DigitalOcean account you need to select the Default Project and then select "Spin up a droplet"
 
