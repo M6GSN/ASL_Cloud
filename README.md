@@ -9,9 +9,9 @@ A guide to setting up a AllStarLink node in the cloud
 
  [What you need](#needed)
 
- [Setting up DigitalOcean](#do)
-
  [Setting up your AllStarLink Account](#asl)
+
+ [Setting up DigitalOcean](#do)
 
  [Setting up your node](#node)
 
@@ -25,7 +25,9 @@ A guide to setting up a AllStarLink node in the cloud
   * An account at [digitalocean.com](https://www.digitalocean.com/) you could use other cloud service providers but this guide is using DigitalOcean
   * 
 
+<a name="asl">setting up your AllStarLink Account
 
+go to[ https://www.allstarlink.org/](https://www.allstarlink.org/)
 
 <a name="do">Setting up your server on DigitalOcean
 
@@ -69,9 +71,6 @@ Now we grab a coffee and wait for the server to be built
 the buld has finished and you should see an IP adress in the photo below its where the 167. is you will need this ip address for the next part
 
 ![logining time](https://m6gsn.co.uk/git/DO10.png)
-
-
-<a name="asl">setting up your AllStarLink Account
 
 
 <a name="node">seting up your node
