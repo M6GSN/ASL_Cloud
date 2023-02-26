@@ -54,7 +54,7 @@ if you go down the key route you will see the following iamge
 
 ![Ckeys](https://m6gsn.co.uk/git/DO07.png)
 
-Now to craete the droplet just lcok on the geen button
+Now to craete the droplet just lcok on the blue button
 
 ![Create](https://m6gsn.co.uk/git/DO08.png)
 
