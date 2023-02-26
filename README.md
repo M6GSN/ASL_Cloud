@@ -1,12 +1,6 @@
 # ASL_Cloud
 A guide to setting up a AllStarLink node in the cloud
 
-<a href="http://m6gsn.co.uk" target="_blank">my home</a>
-
-
-
-
-
  [What you need](#needed)
 
  [Setting up your AllStarLink Account](#asl)
@@ -16,7 +10,7 @@ A guide to setting up a AllStarLink node in the cloud
  [Setting up your node](#node)
 
  [Accessing your node](#access)
-
+___
 <a name="needed"></a>For this project you will need the following
 
 
@@ -24,11 +18,11 @@ A guide to setting up a AllStarLink node in the cloud
   * An account at [allstarlink.org](https://www.allstarlink.org/)
   * An account at [digitalocean.com](https://www.digitalocean.com/) you could use other cloud service providers but this guide is using DigitalOcean
   * 
-
+___
 <a name="asl">setting up your AllStarLink Account
 
 go to[ https://www.allstarlink.org/](https://www.allstarlink.org/)
-
+___
 <a name="do">Setting up your server on DigitalOcean
 
 once you have signed in to you DigitalOcean account you need to select the Default Project and then select "Spin up a droplet"
@@ -72,6 +66,7 @@ the buld has finished and you should see an IP adress in the photo below its whe
 
 ![logining time](https://m6gsn.co.uk/git/DO10.png)
 
+___
 
 <a name="node">seting up your node
 
@@ -98,5 +93,7 @@ Then run the following
 
 
 
+
+___
 
 <a name="access">Accessing your node
