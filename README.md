@@ -33,6 +33,22 @@ once you have signed in to you DigitalOcean account you need to select the Defau
 
 ![first screenshot on digitalOcera](https://m6gsn.co.uk/git/DO01.png)
 
+on the next page select you cloest server
+
+![CLoest server](https://m6gsn.co.uk/git/DO02.png)
+
+then select Debian and fromn the dropdown box select 10 x64
+
+![OS select](https://m6gsn.co.uk/git/DO03.png)
+
+
+
+
+
+
+
+
+
 
 <a name="asl">setting up your AllStarLink Account
 
