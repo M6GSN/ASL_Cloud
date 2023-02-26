@@ -1,5 +1,5 @@
 apt update
-apt install curl gpg
+apt install curl gpg -y
 cd /tmp
 wget http://apt.allstarlink.org/repos/asl_builds/install-allstarlink-repository
 chmod +x install-allstarlink-repository
