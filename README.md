@@ -58,6 +58,17 @@ if you go down the key route you will see the following iamge
 
 ![Ckeys](https://m6gsn.co.uk/git/DO07.png)
 
+Now to craete the droplet just lcok on the geen button
+
+![Create](https://m6gsn.co.uk/git/DO08.png)
+
+Now we grab a coffee and wait for the server to be built
+
+![Coffee Time](https://m6gsn.co.uk/git/DO09.png)
+
+the buld has finished and you should see an IP adress in the photo below its where the 167. is you will need this ip address for the next part
+
+![logining time](https://m6gsn.co.uk/git/DO10.png)
 
 
 <a name="asl">setting up your AllStarLink Account
