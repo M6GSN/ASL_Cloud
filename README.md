@@ -33,19 +33,26 @@ once you have signed in to you DigitalOcean account you need to select the Defau
 
 ![first screenshot on digitalOcera](https://m6gsn.co.uk/git/DO01.png)
 
-on the next page select you cloest server
+On the next page select you cloest server
 
 ![CLoest server](https://m6gsn.co.uk/git/DO02.png)
 
-then select Debian and fromn the dropdown box select 10 x64
+Then select Debian and fromn the dropdown box select 10 x64
 
 ![OS select](https://m6gsn.co.uk/git/DO03.png)
 
+Droplet type select "SHARED CPU Basic" 
+
+![droplet typet](https://m6gsn.co.uk/git/DO04.png)
 
 
+unser CPU options select Regular and the 1gb 1 core
 
+![CPU optionst](https://m6gsn.co.uk/git/DO05.png)
 
+Choose Authentication Method if you have an ssh key in a terminal client such as SmarTTY or Putty or have a linux computer and sdont mind a little extra work then select SSH key or if you like you can use a password. 
 
+![Ckeys or passowrd](https://m6gsn.co.uk/git/DO06.png)
 
 
 
