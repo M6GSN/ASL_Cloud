@@ -29,11 +29,11 @@ once you have signed in to you DigitalOcean account you need to select the Defau
 
 ![first screenshot on digitalOcera](https://m6gsn.co.uk/git/DO01.png)
 
-On the next page select you cloest server
+On the next page select you closest server
 
 ![CLoest server](https://m6gsn.co.uk/git/DO02.png)
 
-Then select Debian and fromn the dropdown box select 10 x64
+Then select Debian and from the drop-down box select "10 x64"
 
 ![OS select](https://m6gsn.co.uk/git/DO03.png)
 
@@ -46,15 +46,15 @@ unser CPU options select Regular and the 1gb 1 core
 
 ![CPU optionst](https://m6gsn.co.uk/git/DO05.png)
 
-Choose Authentication Method if you have an ssh key in a terminal client such as SmarTTY or Putty or have a linux computer and sdont mind a little extra work then select SSH key or if you like you can use a password. 
+Choose Authentication Method if you have an ssh key in a terminal client such as SmarTTY or Putty or have a Linux computer and don't mind a little extra work then select SSH key or if you like you can use a password. 
 
 ![Ckeys or passowrd](https://m6gsn.co.uk/git/DO06.png)
 
-if you go down the key route you will see the following iamge
+if you go down the key route you will see the following image
 
 ![Ckeys](https://m6gsn.co.uk/git/DO07.png)
 
-Now to craete the droplet just lcok on the blue button
+Now to create the droplet just click on the blue button
 
 ![Create](https://m6gsn.co.uk/git/DO08.png)
 
@@ -62,15 +62,15 @@ Now we grab a coffee and wait for the server to be built
 
 ![Coffee Time](https://m6gsn.co.uk/git/DO09.png)
 
-the buld has finished and you should see an IP adress in the photo below its where the 167. is you will need this ip address for the next part
+the buld has finished and you should see an IP address in the photo below its where the 167. is you will need this IP address for the next part
 
 ![logining time](https://m6gsn.co.uk/git/DO10.png)
 
 ___
 
-<a name="node">seting up your node
+<a name="node">setting up your node
 
-to get staeted with the instalation of the project you need to run the following commands 
+to get started with the installation of the project you need to run the following commands 
 
 `apt update && apt install git`
 
