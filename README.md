@@ -54,6 +54,9 @@ Choose Authentication Method if you have an ssh key in a terminal client such as
 
 ![Ckeys or passowrd](https://m6gsn.co.uk/git/DO06.png)
 
+if you go down the key route you will see the following iamge
+
+![Ckeys](https://m6gsn.co.uk/git/DO07.png)
 
 
 
