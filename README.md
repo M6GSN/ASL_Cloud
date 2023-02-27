@@ -7,6 +7,8 @@ A guide to setting up a AllStarLink node in the cloud
 
  [Setting up DigitalOcean](#do)
 
+ [preparing the server](#prep)
+
  [Setting up your node](#node)
 
  [Accessing your node](#access)
@@ -68,9 +70,11 @@ the buld has finished and you should see an IP address in the photo below its wh
 
 ___
 
-## <a name="node">Setting up your node
+## <a name="prep">preparing the server
 
-to get started with the installation of the project you need to run the following commands 
+preping your server
+
+Mpw to the installation of the project you need to run the following commands 
 
 `apt update && apt install git`
 
@@ -86,6 +90,9 @@ Then run the following
 
 `./install.sh`
 
+___
+
+## <a name="node">Setting up your node
 
 
 
