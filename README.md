@@ -29,44 +29,44 @@ ___
 
 once you have signed in to you DigitalOcean account you need to select the Default Project and then select "Spin up a droplet"
 
-![first screenshot on digitalOcera](https://m6gsn.co.uk/git/DO01.png)
+![first screenshot on digitalOcera](https://m6gsn.co.uk/git/1_do/DO01.png)
 
 On the next page select you closest server
 
-![CLoest server](https://m6gsn.co.uk/git/DO02.png)
+![CLoest server](https://m6gsn.co.uk/git/1_do/DO02.png)
 
 Then select Debian and from the drop-down box select "10 x64"
 
-![OS select](https://m6gsn.co.uk/git/DO03.png)
+![OS select](https://m6gsn.co.uk/git/1_do/DO03.png)
 
 Droplet type select "SHARED CPU Basic" 
 
-![droplet typet](https://m6gsn.co.uk/git/DO04.png)
+![droplet typet](https://m6gsn.co.uk/git/1_do/DO04.png)
 
 
 unser CPU options select Regular and the 1gb 1 core
 
-![CPU optionst](https://m6gsn.co.uk/git/DO05.png)
+![CPU optionst](https://m6gsn.co.uk/git/1_do/DO05.png)
 
 Choose Authentication Method if you have an ssh key in a terminal client such as SmarTTY or Putty or have a Linux computer and don't mind a little extra work then select SSH key or if you like you can use a password. 
 
-![Ckeys or passowrd](https://m6gsn.co.uk/git/DO06.png)
+![Ckeys or passowrd](https://m6gsn.co.uk/git/1_do/DO06.png)
 
 if you go down the key route you will see the following image
 
-![Ckeys](https://m6gsn.co.uk/git/DO07.png)
+![Ckeys](https://m6gsn.co.uk/git/1_do/DO07.png)
 
 Now to create the droplet just click on the blue button
 
-![Create](https://m6gsn.co.uk/git/DO08.png)
+![Create](https://m6gsn.co.uk/git/1_do/DO08.png)
 
 Now we grab a coffee and wait for the server to be built
 
-![Coffee Time](https://m6gsn.co.uk/git/DO09.png)
+![Coffee Time](https://m6gsn.co.uk/git/1_do/DO09.png)
 
 the buld has finished and you should see an IP address in the photo below its where the 167. is you will need this IP address for the next part
 
-![logining time](https://m6gsn.co.uk/git/DO10.png)
+![logining time](https://m6gsn.co.uk/git/1_do/DO10.png)
 
 ___
 
