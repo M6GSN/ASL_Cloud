@@ -160,6 +160,8 @@ ___
 
 ## <a name="access">Accessing your node
 
+for this we will be using the Android app DVSwitch
+
 ___
 
 ## <a name="control">Remote control of your node
