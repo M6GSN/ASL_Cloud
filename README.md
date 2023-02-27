@@ -13,7 +13,7 @@ A guide to setting up an AllStarLink node in the cloud
 
  [Accessing your node](#access)
 
- [Wtips and tricks](#tips)
+ [Tips and tricks](#tips)
 
 
 
