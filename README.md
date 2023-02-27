@@ -11,7 +11,7 @@ A guide to setting up a AllStarLink node in the cloud
 
  [Accessing your node](#access)
 ___
-<a name="needed"></a>For this project you will need the following
+##<a name="needed"></a>For this project you will need the following
 
 
   * An amatuer Radio Licence
@@ -19,11 +19,11 @@ ___
   * An account at [digitalocean.com](https://www.digitalocean.com/) you could use other cloud service providers but this guide is using DigitalOcean
   * 
 ___
-<a name="asl">setting up your AllStarLink Account
+##<a name="asl">Setting up your AllStarLink Account
 
 go to[ https://www.allstarlink.org/](https://www.allstarlink.org/)
 ___
-<a name="do">Setting up your server on DigitalOcean
+##<a name="do">Setting up your server on DigitalOcean
 
 once you have signed in to you DigitalOcean account you need to select the Default Project and then select "Spin up a droplet"
 
@@ -68,7 +68,7 @@ the buld has finished and you should see an IP address in the photo below its wh
 
 ___
 
-<a name="node">setting up your node
+##<a name="node">Setting up your node
 
 to get started with the installation of the project you need to run the following commands 
 
@@ -96,4 +96,4 @@ Then run the following
 
 ___
 
-<a name="access">Accessing your node
+##<a name="access">Accessing your node
