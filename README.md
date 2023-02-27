@@ -16,7 +16,7 @@ ___
 ##  <a name="needed"></a>For this project you will need the following
 
 
-  * An amatuer Radio Licence
+  * An Amateur Radio Licence
   * An account at [allstarlink.org](https://www.allstarlink.org/)
   * An account at [digitalocean.com](https://www.digitalocean.com/) you could use other cloud service providers but this guide is using DigitalOcean
   * 
