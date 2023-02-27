@@ -115,7 +115,7 @@ Now to the installation of the project you need to run the following commands
 
 `apt update && apt install git`
 
-Once that is installed
+Now grab a cup of coffee. Once that is done
 
 `git clone https://github.com/M6GSN/ASL_Cloud`
 
