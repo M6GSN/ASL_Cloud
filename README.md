@@ -23,7 +23,28 @@ ___
 ___
 ## <a name="asl">Setting up your AllStarLink Account
 
-go to[ https://www.allstarlink.org/](https://www.allstarlink.org/)
+go to[ https://www.allstarlink.org/](https://www.allstarlink.org/) once your account has been created lof in then select Portal on the top menu 
+
+![CLoest server](https://m6gsn.co.uk/git/2_asl/DO01.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ___
 ## <a name="do">Setting up your server on DigitalOcean
 
