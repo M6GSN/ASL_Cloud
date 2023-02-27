@@ -25,13 +25,21 @@ ___
 
 go to[ https://www.allstarlink.org/](https://www.allstarlink.org/) once your account has been created lof in then select Portal on the top menu 
 
+![past login](https://m6gsn.co.uk/git/2_asl/asl01.png)
+
+from that menu select Server
+
+![select server](https://m6gsn.co.uk/git/2_asl/asl02.png)
+
+fill in the form then hit submit
+
+![crate server](https://m6gsn.co.uk/git/2_asl/asl03.png)
+
+from the portal menu select node
+
+![select server](https://m6gsn.co.uk/git/2_asl/asl02.png)
+
 ![CLoest server](https://m6gsn.co.uk/git/2_asl/asl01.png)
-
-
-
-
-
-
 
 
 
