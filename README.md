@@ -12,18 +12,23 @@ A guide to setting up a AllStarLink node in the cloud
  [Setting up your node](#node)
 
  [Accessing your node](#access)
+
+
+
+Please note if a link had a * after it it needs to be open in a new tab.
+Also sections of thext that `look like this` you can copy and paste in you the terminal window.
 ___
 ##  <a name="needed"></a>For this project you will need the following
 
 
   * An Amateur Radio Licence
-  * An account at [allstarlink.org](https://www.allstarlink.org/)
-  * An account at [digitalocean.com](https://www.digitalocean.com/) you could use other cloud service providers but this guide is using DigitalOcean
+  * An account at [allstarlink.org](https://www.allstarlink.org/)*
+  * An account at [digitalocean.com](https://www.digitalocean.com/)* you could use other cloud service providers but this guide is using DigitalOcean
   * 
 ___
 ## <a name="asl">Setting up your AllStarLink Account
 
-go to[ https://www.allstarlink.org/](https://www.allstarlink.org/) once your account has been created lof in then select Portal on the top menu 
+go to[ https://www.allstarlink.org/](https://www.allstarlink.org/)* once your account has been created lof in then select Portal on the top menu 
 
 ![past login](https://m6gsn.co.uk/git/2_asl/asl01.png)
 
@@ -54,7 +59,7 @@ you will need to make a note of your node number and the password. the password 
 ___
 ## <a name="do">Setting up your server on DigitalOcean
 
-once you have signed in to you DigitalOcean account you need to select the Default Project and then select "Spin up a droplet"
+headon over to  [digitalocean.com](https://www.digitalocean.com/)* and sign up for an account once you have signed in to you DigitalOcean account you need to select the Default Project and then select "Spin up a droplet"
 
 ![first screenshot on digitalOcera](https://m6gsn.co.uk/git/1_do/DO01.png)
 
@@ -130,6 +135,8 @@ Then run the following
 ___
 
 ## <a name="node">Setting up your node
+
+new we set up the node first off run `asl-menu`
 
 
 
