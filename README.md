@@ -25,7 +25,7 @@ ___
 
 go to[ https://www.allstarlink.org/](https://www.allstarlink.org/) once your account has been created lof in then select Portal on the top menu 
 
-![CLoest server](https://m6gsn.co.uk/git/2_asl/DO01.png)
+![CLoest server](https://m6gsn.co.uk/git/2_asl/asl01.png)
 
 
 
