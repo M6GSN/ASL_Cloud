@@ -13,6 +13,8 @@ A guide to setting up an AllStarLink node in the cloud
 
  [Accessing your node](#access)
 
+ [Wtips and tricks](#tips)
+
 
 
 Please note if a link had a * after it it needs to be open in a new tab.
@@ -137,7 +139,11 @@ ___
 
 ## <a name="node">Setting up your node
 
+
+
 new we set up the node first off run `asl-menu`
+
+
 
 
 
@@ -149,3 +155,7 @@ new we set up the node first off run `asl-menu`
 ___
 
 ## <a name="access">Accessing your node
+
+___
+
+## <a name="tips">Tips and tricks
