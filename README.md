@@ -70,9 +70,14 @@ the buld has finished and you should see an IP address in the photo below its wh
 
 ___
 
-## <a name="prep">preparing the server
+## <a name="prep">Preparing the server
 
-preping your server
+Lets get our sever ready for AllStarLink
+
+for this part of the guide we will be using PuTTY
+
+
+
 
 Mpw to the installation of the project you need to run the following commands 
 
