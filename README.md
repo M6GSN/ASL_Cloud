@@ -103,13 +103,12 @@ Lets get our sever ready for AllStarLink
 
 open up your choice of terminal client you will need to input the following information
 
-|location           |enter                                     |
-|-------------------------------------------------------------||
-|host or server name|this will be the IP Address of your server|
-|user name          |root                                      |                   |                                          |
-|password           |this will be the password you inputed     |
-|                   |at server setup                          |
-|                   |                                          |
+|location           |enter                                                   |
+|-------------------|--------------------------------------------------------|
+|host or server name|this will be the IP Address of your server              |
+|user name          |root                                                    |                   |                                          |
+|password           |this will be the password you inputted at server setup  |
+|key                |if you pted for the kay method select it here|
 
 
 Mpw to the installation of the project you need to run the following commands 
