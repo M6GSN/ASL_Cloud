@@ -15,6 +15,13 @@ A guide to setting up an AllStarLink node in the cloud
 
  [Tips and tricks](#tips)
 
+ [remote control of your node](#control) Optional
+
+
+
+## <a name="">remote control of your node
+
+
 
 
 Please note if a link had a * after it it needs to be open in a new tab.
@@ -131,7 +138,7 @@ Then run the following
 
 `cd asl_cloud`
 
-`chmod +x install.sh`
+`chmod +x *.sh`
 
 `./install.sh`
 
@@ -141,7 +148,7 @@ ___
 
 
 
-new we set up the node first off run `asl-menu`
+Now we set up the node first off run `asl-menu`
 
 
 
@@ -155,6 +162,11 @@ new we set up the node first off run `asl-menu`
 ___
 
 ## <a name="access">Accessing your node
+
+___
+
+## <a name="control">remote control of your node
+
 
 ___
 
