@@ -167,6 +167,8 @@ ___
 
 ## <a name="control">remote control of your node
 
+Although this is a optional step it does have it perks
+
 
 ___
 
