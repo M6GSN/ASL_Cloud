@@ -39,7 +39,9 @@ from the portal menu select node
 
 ![select server](https://m6gsn.co.uk/git/2_asl/asl02.png)
 
-![CLoest server](https://m6gsn.co.uk/git/2_asl/asl01.png)
+here you will need to select create (mine says continue as I allready have 2 nodes)
+
+![CLoest server](https://m6gsn.co.uk/git/2_asl/asl03.png)
 
 
 
