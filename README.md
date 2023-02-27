@@ -41,19 +41,15 @@ from the portal menu select node
 
 here you will need to select create (mine says continue as I allready have 2 nodes)
 
-![CLoest server](https://m6gsn.co.uk/git/2_asl/asl03.png)
+![CLoest server](https://m6gsn.co.uk/git/2_asl/asl04.png)
 
+fill in this form but you will get your first node straight away
 
+![CLoest server](https://m6gsn.co.uk/git/2_asl/asl05.png)
 
+you will need to make a note of your node number and the password. the password can be changed by clicking on the node number you can over your mouse over the password area on diplay or go in by clicking on the node number
 
-
-
-
-
-
-
-
-
+![CLoest server](https://m6gsn.co.uk/git/2_asl/asl04.png)
 
 ___
 ## <a name="do">Setting up your server on DigitalOcean
