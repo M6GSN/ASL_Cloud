@@ -101,9 +101,13 @@ ___
 
 Lets get our sever ready for AllStarLink
 
-for this part of the guide we will be using PuTTY
-
-
+open up your choice of terminal client you will need to input the following information
+|host or server name|this will be the IP Address of your server|
+|-------------------|------------------------------------------|
+|user name          |root                                      |
+------------------- |------------------------------------------|
+|                   |                                          |
+-------------------|------------------------------------------
 
 
 Mpw to the installation of the project you need to run the following commands 
