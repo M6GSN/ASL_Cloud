@@ -13,13 +13,10 @@ A guide to setting up an AllStarLink node in the cloud
 
  [Accessing your node](#access)
 
+ [Remote control of your node](#control) Optional
+
  [Tips and tricks](#tips)
 
- [remote control of your node](#control) Optional
-
-
-
-## <a name="">remote control of your node
 
 
 
@@ -165,7 +162,7 @@ ___
 
 ___
 
-## <a name="control">remote control of your node
+## <a name="control">Remote control of your node
 
 Although this is a optional step it does have it perks
 
