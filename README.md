@@ -1,5 +1,5 @@
 # ASL_Cloud
-A guide to setting up a AllStarLink node in the cloud
+A guide to setting up a radio-less AllStarLink node in the cloud
 
  [What you need](#needed)
 
