@@ -111,7 +111,7 @@ open up your choice of terminal client you will need to input the following info
 |key                |if you opted for the key method select it here|
 
 
-Mpw to the installation of the project you need to run the following commands 
+Now to the installation of the project you need to run the following commands 
 
 `apt update && apt install git`
 
