@@ -102,9 +102,10 @@ ___
 Lets get our sever ready for AllStarLink
 
 open up your choice of terminal client you will need to input the following information
+
+|-------------------------------------------------------------||
 |host or server name|this will be the IP Address of your server|
-|-------------------|------------------------------------------|
-|user name          |root                                      |
+|user name          |root                                      |                   |                                          |
 |password           |this will be the password you inputed     |
 |                   |at server setup                          |
 |                   |                                          |
