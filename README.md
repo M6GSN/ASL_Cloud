@@ -168,7 +168,7 @@ ___
 
 `nano iax.conf`
 
-scroll down till you find a section  called Incoming radio connections after the section [radio]
+scroll down till you find a section  called Incoming radio connections after the section "[radio]"
 
 
 
