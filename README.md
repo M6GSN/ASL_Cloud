@@ -176,7 +176,7 @@ when done press crtl+x then press y
 
 now we need to change the extensions.conf `nano extensions.conf`then below the section radio-secure paste the text from [extensions.conf.txt](https://github.com/M6GSN/ASL_Cloud/blob/main/extensions.conf.txt) changing yourcall to your call sign and NodeNo to your node number
 
-
+hen done press crtl+x then press y
 
 ___
 
