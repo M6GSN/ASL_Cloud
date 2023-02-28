@@ -172,7 +172,19 @@ scroll down till you find a section  called Incoming radio connections after the
 
 
 
-```
+`
+[yourcall]
+username=yourcall
+type=user
+context=yourcall
+auth=md5
+secret=YOURSECRETWILLGOHERE
+host=dynamic
+disallow=all
+allow=ulaw
+allow=gsm
+transfer=no
+`
 
 ___
 
