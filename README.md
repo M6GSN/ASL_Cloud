@@ -162,7 +162,17 @@ ___
 
 ## <a name="access">Accessing your node
 
-for this we will be using the Android app DVSwitch
+### part 1 Setting up yournode for access
+
+`cd /etc/asterisk/
+
+`nano iax.conf`
+
+scroll down till you find a section  called Incoming radio connections after the section [radio]
+
+
+
+```
 
 ___
 
