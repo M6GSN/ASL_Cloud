@@ -1,0 +1,5 @@
+[yourcall]
+exten => NodeNo,1,Answer()
+exten => NodeNo,n,Set(CALLSIGN=${CALLERID(name)})
+exten => NodeNo,n,rpt(NodeNo|P|${CALLSIGN})
+exten => NodeNo,n,Rpt,NodeNo|P
