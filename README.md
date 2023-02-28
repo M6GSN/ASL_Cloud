@@ -125,7 +125,7 @@ open up your choice of terminal client you will need to input the following info
 
 Now to the installation of the project you need to run the following commands 
 
-`apt update && apt install git`
+`apt update && apt install git -y`
 
 Now grab a cup of coffee. Once that is done
 
