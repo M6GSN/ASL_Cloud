@@ -170,7 +170,7 @@ first of we need to change locations input `cd /etc/asterisk/
 
 then we need tp edit the iax.conf file `nano iax.conf`
 
-scroll down till you find a section  called Incoming radio connections after the section radio then paist the text from [iax.conf.txt](https://github.com/M6GSN/ASL_Cloud/blob/main/iax.conf.txt)* and change the following yourcall to you call sign and change the secret from YOURSECRETWILLGOHERE 
+scroll down till you find a section called Incoming radio connections then after the section radio then paste the text from [iax.conf.txt](https://github.com/M6GSN/ASL_Cloud/blob/main/iax.conf.txt)* and change the following yourcall to you call sign and change the secret from YOURSECRETWILLGOHERE 
 
 when done press crtl+x then press y
 
