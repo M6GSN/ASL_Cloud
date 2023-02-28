@@ -166,7 +166,7 @@ ___
 
 note due to some limitation on github some of the following changes templates are in separate files 
 
-first of we need to change input `cd /etc/asterisk/
+first of we need to change locations input `cd /etc/asterisk/
 
 then we need tp edit the iax.conf file `nano iax.conf`
 
