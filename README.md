@@ -162,39 +162,20 @@ ___
 
 ## <a name="access">Accessing your node
 
-### part 1 Setting up yournode for access
+### part 1 Setting up your node for access
 
-`cd /etc/asterisk/
+note due to some limitation on github some of the following changes templates are in separate files 
 
-`nano iax.conf`
+first of we need to change input `cd /etc/asterisk/
 
-scroll down till you find a section  called Incoming radio connections after the section radio
+then we need tp edit the iax.conf file `nano iax.conf`
+
+scroll down till you find a section  called Incoming radio connections after the section radio then paist the text from [iax.conf.txt](https://github.com/M6GSN/ASL_Cloud/blob/main/iax.conf.txt)* and change the following yourcall to you call sign and change the secret from YOURSECRETWILLGOHERE 
+
+when done press crtl+x then press y
 
 
 
-`
-[yourcall]
-
-username=yourcall
-
-type=user
-
-context=yourcall
-
-auth=md5
-
-secret=YOURSECRETWILLGOHERE
-
-host=dynamic
-
-disallow=all
-
-allow=ulaw
-
-allow=gsm
-
-transfer=no
-`
 
 ___
 
