@@ -127,7 +127,7 @@ Now to the installation of the project you need to run the following commands
 
 `apt update && apt install git -y`
 
-Now grab a cup of coffee. Once that is done
+Now go and make a cup of coffee. Once that is done
 
 `git clone https://github.com/M6GSN/ASL_Cloud`
 
@@ -136,6 +136,8 @@ Then run the following
 `cd ASL_Cloud`
 
 `chmod +x *.sh`
+
+Now you can drink your coffee
 
 `./install.sh`
 
