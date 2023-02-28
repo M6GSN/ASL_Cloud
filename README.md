@@ -133,7 +133,7 @@ Now grab a cup of coffee. Once that is done
 
 Then run the following
 
-`cd asl_cloud`
+`cd ASL_Cloud`
 
 `chmod +x *.sh`
 
