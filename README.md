@@ -174,6 +174,7 @@ scroll down till you find a section  called Incoming radio connections after the
 
 `
 [yourcall]
+
 username=yourcall
 
 type=user
@@ -193,7 +194,6 @@ allow=ulaw
 allow=gsm
 
 transfer=no
-
 `
 
 ___
