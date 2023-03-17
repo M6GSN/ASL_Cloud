@@ -25,7 +25,7 @@ Please note if a link had a * after it it needs to be open in a new tab.
 
 Also sections of text that `look like this` you can copy and paste in you the terminal window.
 ___
-##  <a name="needed"></a>For this project you will need the following
+##  <a name="needed"></a>For this project you will need the following ingredients
 
 
   * An Amateur Radio Licence
